@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Miniver&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Pacifico&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+@import "tailwindcss";
+
+@theme{
+    --font-title: Pacifico, cursive;
+    --font-text: Winky Sans, sans-serif;
+}
+
+
